@@ -1,5 +1,5 @@
 # Profile - PYTHON FLASK
-The program can be run in the Python environment, and it will guide the user through each step of the contact tracing information collection process.
+The program can be run in the Python environment.
 
 # ❓ How this program run: 
 1. install python if you haven't install yet
